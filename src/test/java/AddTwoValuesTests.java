@@ -8,8 +8,6 @@ import static junit.framework.TestCase.assertEquals;
 /**
  * Created by kate on 1/12/16.
  */
-
-
 public class AddTwoValuesTests {
 
     Calculator calc = new Calculator();
